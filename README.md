@@ -12,4 +12,4 @@ ChatGPT responded to both of my questions with the following answer:
 
 ## References
 
-Krishnamurthi, S., & Fisler, K. (2019). 13 Programming Paradigms and Beyond. The Cambridge Handbook of Computing Education Research.
+- Krishnamurthi, S., & Fisler, K. (2019). 13 Programming Paradigms and Beyond. The Cambridge Handbook of Computing Education Research.
