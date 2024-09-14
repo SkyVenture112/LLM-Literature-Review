@@ -5,7 +5,7 @@
 How have object-oriented, imperative, and functional programming languages differed in their development? Additionally, how would the nature of each category of programming language affect its respect degree of adoption by different sectors of the populace?
 
 
-## **ChatGPT-Generated Response**
+## ChatGPT-Generated Response
 
 Object-oriented (OOP), imperative, and functional programming languages represent different paradigms in programming, each offering unique approaches to solving problems. Their development histories and rates of adoption have been influenced by various factors like the problems they aim to solve, ease of use, and the programming communities that embrace them."
 
