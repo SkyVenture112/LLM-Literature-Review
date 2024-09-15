@@ -19,12 +19,12 @@ With regard to the specific differences in development and adoption, ChatGPT wro
 
 ***Imperative languages*** are well-suited to system-level programming and applications where direct control over the hardware is required (e.g., embedded systems, operating systems).
 ***Object-Oriented languages*** have thrived in enterprise applications, GUIs, and larger codebases where modularity, reuse, and maintainability are priorities.
-***Functional languages*** have seen increased adoption in fields that require parallelism, fault tolerance, and scalability (e.g., data science, financial systems, distributed computing). However, FP remains less common in many industries, although the adoption of functional techniques in hybrid languages is growing.
+***Functional languages*** have seen increased adoption in fields that require parallelism, fault tolerance, and scalability (e.g., data science, financial systems, distributed computing). However, functional programming remains less common in many industries, although the adoption of functional techniques in hybrid languages is growing.
 
 ### Hybridization and Evolution:
 
 Many modern languages combine paradigms. For example, Python, JavaScript, and Scala incorporate functional programming features while maintaining support for imperative and object-oriented styles.
-This hybrid nature has accelerated the adoption of paradigms like functional programming without requiring developers to entirely switch from imperative or OOP practices.
+This hybrid nature has accelerated the adoption of paradigms like functional programming without requiring developers to entirely switch from imperative or Object-Oriented practices.
 
 
 ## References
