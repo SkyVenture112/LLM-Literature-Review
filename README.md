@@ -1,4 +1,5 @@
 # LLM-Literature-Review
+Jack Dippel
 
 ## Questions
 
