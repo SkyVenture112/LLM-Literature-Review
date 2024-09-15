@@ -28,7 +28,11 @@ This hybrid nature has accelerated the adoption of paradigms like functional pro
 
 ### Conclusion:
 
-In summary, imperative languages are ideal for introductory programming due to their simplicity, object-oriented languages are great for teaching students how to manage complex systems, and functional languages are valuable for developing mathematically robust thinking, clean code practices, and managing concurrency. Each paradigm emphasizes different problem-solving strategies, which can shape the development of a student's programming mindset.
+In summary, ****imperative languages*** are ideal for introductory programming due to their simplicity, ***object-oriented languages*** are great for teaching students how to manage complex systems, and ***functional languages*** are valuable for developing mathematically robust thinking, clean code practices, and managing concurrency. Each paradigm emphasizes different problem-solving strategies, which can shape the development of a student's programming mindset.
+
+## Summary 
+
+Imperative programming languages were the first to be developed. Their inherently basic nature (that is, issuing statements for a computer to execute in the form of programs) made it the most logical step from machine language. This would ultimately set the groundwork for future paradigms. Their simplistic nature makes them ideal for being taught to beginners in coding, which is why Python and C++ are often used in introductory programming courses. The advent of object-oriented programming introduced several new notions, such as encapsulation and polymorphism. The modular nature of object-oriented principles broke down problems and structured them into separate components, allowing developers to complete more complex tasks. Java is perhaps the most renowned language belonging to this hierarchy given that it is almost purely object-oriented (as opposed to other languages, which can be a hybridization of multiple paradigms). Functional languages essentially evolved alongside both imperative and object-oriented languages due to them being composed of functions. Haskell and Lisp are modern examples of such languages and are often only taught in an advanced academic setting---the self-taught learner may not touch upon one. The logic-based nature of the paradigm makes it ideal for experimenting with parallelism and concurrency.
 
 
 ## References
