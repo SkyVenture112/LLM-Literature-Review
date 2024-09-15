@@ -35,7 +35,7 @@ The advent of object-oriented programming introduced several new notions, such a
 
 Functional languages essentially evolved alongside both imperative and object-oriented languages due to them being composed of functions. Imperative languages, however, are more considered to be the "first" set of languages considering their usage was widespread. Haskell and Lisp are modern examples of functional languages and are often only taught in an advanced academic setting---the self-taught learner may never even touch upon one. The logic-based nature of the paradigm makes it ideal for experimenting with parallelism and concurrency.
 
-As mentioned above, certain languages implement elements from multiple different paradigms. C#, for example, is both object-oriented and functional in nature. This makes it optimal for creating a course that simultaneously builds upon what students may already know and teaches more complex concepts regarding parallelism. The selection of a programming language (or multiple) to teach during a course essentially defines its academic level.
+As mentioned above, certain languages implement elements from multiple different paradigms. C#, for example, is primarily object-oriented, but is also functional in nature. This makes it optimal for creating a course that simultaneously builds upon what students may already know and teaches more complex concepts regarding parallelism. The selection of a programming language (or multiple) to teach during a course essentially defines its academic level.
 
 
 ## References
