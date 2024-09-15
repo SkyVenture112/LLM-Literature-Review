@@ -28,7 +28,7 @@ This hybrid nature has accelerated the adoption of paradigms like functional pro
 
 ### Conclusion:
 
-In summary, ****imperative languages*** are ideal for introductory programming due to their simplicity, ***object-oriented languages*** are great for teaching students how to manage complex systems, and ***functional languages*** are valuable for developing mathematically robust thinking, clean code practices, and managing concurrency. Each paradigm emphasizes different problem-solving strategies, which can shape the development of a student's programming mindset.
+In summary, ***imperative languages*** are ideal for introductory programming due to their simplicity, ***object-oriented languages*** are great for teaching students how to manage complex systems, and ***functional languages*** are valuable for developing mathematically robust thinking, clean code practices, and managing concurrency. Each paradigm emphasizes different problem-solving strategies, which can shape the development of a student's programming mindset.
 
 ## Summary 
 
