@@ -27,10 +27,6 @@ With regard to the specific differences in development and adoption, ChatGPT wro
 Many modern languages combine paradigms. For example, Python, JavaScript, and Scala incorporate functional programming features while maintaining support for imperative and object-oriented styles.
 This hybrid nature has accelerated the adoption of paradigms like functional programming without requiring developers to entirely switch from imperative or Object-oriented practices.
 
-### Conclusion:
-
-In summary, ***imperative languages*** are ideal for introductory programming due to their simplicity, ***object-oriented languages*** are great for teaching students how to manage complex systems, and ***functional languages*** are valuable for developing mathematically robust thinking, clean code practices, and managing concurrency. Each paradigm emphasizes different problem-solving strategies, which can shape the development of a student's programming mindset.
-
 ## Summary 
 
 Imperative programming languages were the first to be developed. Their inherently basic nature (that is, issuing statements for a computer to execute in the form of programs) made it the most logical step from machine language. This would ultimately set the groundwork for future paradigms. Their simplistic nature makes them ideal for being taught to beginners in coding, which is why Python and C++ are often used in introductory college-level programming courses. For younger students (i.e., those in middle school), there exist a plethora of other imperative block-based languages that can serve as a springboard to coding. The web-based language Scratch, for instance, is often used to introduce students to basic computer logic.
