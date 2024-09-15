@@ -25,7 +25,7 @@ With regard to the specific differences in development and adoption, ChatGPT wro
 ### Hybridization and Evolution:
 
 Many modern languages combine paradigms. For example, Python, JavaScript, and Scala incorporate functional programming features while maintaining support for imperative and object-oriented styles.
-This hybrid nature has accelerated the adoption of paradigms like functional programming without requiring developers to entirely switch from imperative or Object-oriented practices.
+This hybrid nature has accelerated the adoption of paradigms like functional programming without requiring developers to entirely switch from imperative or object-oriented practices.
 
 ## Summary 
 
