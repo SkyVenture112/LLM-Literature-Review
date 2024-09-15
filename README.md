@@ -2,7 +2,7 @@
 
 ## Questions
 
-How have object-oriented, imperative, and functional programming languages differed in their development? Additionally, how would the nature of each category of programming language affect its respect degree of adoption for pedagogical purposes?
+How have object-oriented, imperative, and functional programming languages differed in their development? Additionally, how would the nature of each category of programming language affect its respective degree of adoption for pedagogical purposes?
 
 
 ## ChatGPT-Generated Response
