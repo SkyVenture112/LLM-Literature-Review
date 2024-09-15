@@ -7,7 +7,7 @@ How have object-oriented, imperative, and functional programming languages diffe
 
 ## ChatGPT-Generated Response
 
-With regards to the specific differences in development and adoption, ChatGPT wrote the folllowing:
+With regard to the specific differences in development and adoption, ChatGPT wrote the folllowing:
 
 ### Paradigm Complexity and Learning Curve:
 
