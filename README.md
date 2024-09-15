@@ -33,4 +33,5 @@ This hybrid nature has accelerated the adoption of paradigms like functional pro
 - Sajaniemi, J., Ben-Ari, M., Byckling, P., Gerdt, P., & Kulikova, Y. (2006). [Roles of variables in three programming paradigms](https://doi.org/10.1080/08993400600874584). Computer Science Education, 16(4), 261–279.
 - Gorodniaia, L., & Andreyeva, T. (2016). [Study of programming paradigms](https://doi.org/10.21125/inted.2016.0768). INTED2016 Proceedings, 1, 7482–7491.
 - Dobre, C., & Xhafa, F. (2013). [Parallel programming paradigms and frameworks in Big Data Era](https://doi.org/10.1007/s10766-013-0272-7). International Journal of Parallel Programming, 42(5), 710–738.
+- Ortin, F., Redondo, J. M., & Quiroga, J. (2017). [Design and evaluation of an alternative programming paradigms course](https://doi.org/10.1016/j.tele.2016.09.014). Telematics and Informatics, 34(6), 813–823. 
 
